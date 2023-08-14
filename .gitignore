@@ -1,0 +1,9 @@
+# General
+.vscode
+
+# Validation Tasks To Do
+ValidationTasksToDo/.env
+ValidationTasksToDo/venv/
+ValidationTasksToDo/src/token.json
+ValidationTasksToDo/src/credentials.json
+ValidationTasksToDo/src/core/__pycache__/
